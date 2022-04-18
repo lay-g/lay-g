@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lay-g&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lay-g&layout=compact&theme=tokyonight" alt="languages" width= "420" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=lay-g&show_icons=true&theme=tokyonight" alt="my github stats" width="420" height="165"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lay-g&layout=compact&theme=tokyonight" alt="languages" width= "410" height="165">
 </p>
 
 
