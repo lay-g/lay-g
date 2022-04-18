@@ -45,33 +45,10 @@ Here are some ideas to get you started:
 <a align="center" href="">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lay-g&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lay-g&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-
-
-<!-- programming langs i work-->
-<p align="center">
-<img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lay-g&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lay-g)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hellokaton) -->
-<!-- [![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://blog.hellokaton.com/) -->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:me@layweb.org)
