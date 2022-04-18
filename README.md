@@ -8,7 +8,7 @@
 
 <!-- first row -->
 <p align="center">
-<a href="https://github.com/hellokaton"><img src="https://komarev.com/ghpvc/?username=hellokaton">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhellokaton&longCache=true">
+<a href="https://github.com/lay-g"><img src="https://komarev.com/ghpvc/?username=lay-g">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlay-g&longCache=true">
 </a>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -31,23 +31,21 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-blade&repo=blade)](https://github.com/lets-blade/blade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellokaton&repo=anima)](https://github.com/biezhi/anima)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellokaton&repo=excel-plus)](https://github.com/biezhi/excel-plus)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellokaton&repo=write-readable-code)](https://github.com/biezhi/write-readable-code)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lay-g&repo=microservices-framework)](https://github.com/lay-g/microservices-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lay-g&repo=xxl-job-boot-starter)](https://github.com/lay-g/xxl-job-boot-starter)
 
 
 ### 🏆 Github Status
 <a href="">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=lay-g&column=7&theme=onedark"/>
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hellokaton&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellokaton&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=lay-g&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lay-g&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 
@@ -73,10 +71,7 @@ Here are some ideas to get you started:
 
 
 ### ☕ Get In Touch
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hellokaton)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/story/5064465)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hellokaton)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/33165125)
-[![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://blog.hellokaton.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hellokaton@gmail.com)
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lay-g)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hellokaton) -->
+<!-- [![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://blog.hellokaton.com/) -->
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:me@layweb.org)
