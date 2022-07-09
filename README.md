@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👀 Active Repo
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lay-g&repo=microservices-framework)](https://github.com/lay-g/microservices-framework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lay-g&repo=xxl-job-boot-starter)](https://github.com/lay-g/xxl-job-boot-starter)
-
-
 ### 🏆 Github Status
 <a href="">
     <p align="center">
